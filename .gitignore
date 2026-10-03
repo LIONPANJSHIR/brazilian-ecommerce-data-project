@@ -1,0 +1,29 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Variables secrètes
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données lourdes
+data/raw/
+*.csv
+*.parquet
+
+# OS / éditeur
+.DS_Store
+.vscode/
+
+
+
+uv.lock
+
+
+
